@@ -36,18 +36,16 @@ Una aplicación web construida con **React** que permite a los usuarios explorar
 4. Abre tu navegador en:
     http://localhost:5173
 ## 📁 Estructura del proyecto
-css
-Copiar código
-react-movie-app/
-├── components/
-│   └── MovieCard.jsx
-├── contexts/
-│   └── MovieContext.jsx
-├── css/
-│   └── MovieCard.css
-├── App.jsx
-├── main.jsx
-└── ...
+    react-movie-app/
+    ├── components/
+    │   └── MovieCard.jsx
+    ├── contexts/
+    │   └── MovieContext.jsx
+    ├── css/
+    │   └── MovieCard.css
+    ├── App.jsx
+    ├── main.jsx
+    └── ...
 ## 🧠 Lógica de favoritos
 Los favoritos se manejan en MovieContext.jsx mediante un context provider personalizado.
 
